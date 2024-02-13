@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm a MERN developer with a strong foundation in DSA.<br><br>📖 Currently, I'm expanding my skills by learning Next.js, and I'm eager to apply it to real-world projects.<br><br>🌐 I have a keen interest in web3 development and exploring its potential for the future of the web.<br><br>🤝 I'm always on the lookout for exciting open-source projects to contribute to and collaborate with other developers.<br><br>♟️ When I'm not coding, you'll find me playing chess under the username "abhishekrolly".
+👋 Hi there! I'm a Java Fullstack developer with a strong foundation in DSA.<br><br>📖 Currently, I'm expanding my skills by learning MERN Stack, and I'm eager to apply it to real-world projects.<br><br>🌐 I have a keen interest in web3 development and exploring its potential for the future of the web.<br><br>🤝 I'm always on the lookout for exciting open-source projects to contribute to and collaborate with other developers.<br><br>♟️ When I'm not coding, you'll find me playing chess under the username "abhishekrolly".
 
 
 ## 🌐 Socials:
