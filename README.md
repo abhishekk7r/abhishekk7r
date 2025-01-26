@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi there! I'm a passionate developer specializing in Java Fullstack development and experienced in building scalable applications using Microservices architecture.<br><br>📖🔄 My current focus areas include:<br><br>🌐 Java and Spring Boot for backend development.<br><br>🤝 ReactJS and AngularJS for dynamic and responsive frontend solutions.<br><br>♟️Designing robust systems with HLD and LLD Design Patterns.
-<br><br>Efficient deployment using Docker and Kubernetes for containerization and orchestration.<br><br>Strengthening problem-solving skills through consistent practice in Data Structures and Algorithms (DSA)
+<br><br>🌐 Efficient deployment using Docker and Kubernetes for containerization and orchestration.<br><br>🔄 Strengthening problem-solving skills through consistent practice in Data Structures and Algorithms (DSA)
 
 
 ## 🌐 Socials:
