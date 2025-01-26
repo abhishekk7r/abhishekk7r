@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hi there! I'm a Java Fullstack developer with a strong foundation in DSA.<br><br>📖 Currently, I'm expanding my skills by learning MERN Stack, and I'm eager to apply it to real-world projects.<br><br>🌐 I have a keen interest in web3 development and exploring its potential for the future of the web.<br><br>🤝 I'm always on the lookout for exciting open-source projects to contribute to and collaborate with other developers.<br><br>♟️ When I'm not coding, you'll find me playing chess under the username "abhishekrolly".
+👋 Hi there! I'm a passionate developer specializing in Java Fullstack development and experienced in building scalable applications using Microservices architecture.<br><br>📖🔄 My current focus areas include:<br><br>🌐 Java and Spring Boot for backend development.<br><br>🤝 ReactJS and AngularJS for dynamic and responsive frontend solutions.<br><br>♟️Designing robust systems with HLD and LLD Design Patterns.
+<br><br>Efficient deployment using Docker and Kubernetes for containerization and orchestration.<br><br>Strengthening problem-solving skills through consistent practice in Data Structures and Algorithms (DSA)
 
 
 ## 🌐 Socials:
